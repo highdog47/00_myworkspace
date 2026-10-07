@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(Get-ChildItem -Path \"C:\\\\users\\\\KJh\\\\00_myworkspace\\\\3_bucket-list-main\" -Force)",
+      "Bash(Format-List Name)"
+    ]
+  }
+}

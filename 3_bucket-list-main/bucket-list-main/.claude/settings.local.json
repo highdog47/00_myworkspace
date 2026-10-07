@@ -1,0 +1,7 @@
+{
+  "permissions": {
+    "allow": [
+      "PowerShell(start 'C:\\\\Users\\\\KJH\\\\00_myworkspace\\\\3_bucket-list-main\\\\bucket-list-main\\\\index.html'; Start-Sleep -Seconds 3)"
+    ]
+  }
+}
